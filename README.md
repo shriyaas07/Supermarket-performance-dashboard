@@ -39,5 +39,5 @@ This Power BI dashboard presents a comprehensive analysis of supermarket busines
 ## 📫 Let’s Connect!
 
 Created by **Shriya Srivastava**  
-📧 Reach out on [LinkedIn](www.linkedin.com/in/shriyaa-srivastav-a34b50201) for feedback or collaboration!
+📧 Reach out on [LinkedIn(www.linkedin.com/in/shriyaa-srivastav-a34b50201)] for feedback or collaboration!
 
