@@ -1,41 +1,43 @@
-# Supermarket-performance-dashboard
-My first Power BI project: Retail performance dashboard.# 🛒 Super Market Performance Analysis - Power BI Dashboard
 
-This Power BI dashboard provides a comprehensive performance analysis of a fictional supermarket chain. It helps in understanding sales trends, customer behavior, brand preferences, and operational KPIs.
 
----
+# 🛒 Supermarket Performance Dashboard - Power BI #
+My first Power BI project: Retail performance dashboard.
 
-## 📊 Key Insights Covered:
-- Total Orders, Sales, Costs, and Loss
-- Average Order Value & Delivery Time
-- Return Rate %
-- Payment Method & Customer Type Breakdown
-- Customer Feedback per Brand
-- Brand Preferences Based on Customer Age
-- Revenue, Cost & Profit Comparison by Brand
-- Category-Wise Quantity Sold
+![Dashboard Screenshot](Super%20market%20Performance.png)
+
+This Power BI dashboard presents a comprehensive analysis of supermarket business performance across different categories, brands, and customer segments.
 
 ---
 
-## 🧰 Tools Used:
-- Power BI Desktop
-- DAX for calculated measures
-- Slicers and filters for interactivity
-- Pie, bar, line, and scatter charts
+## 📊 What's Included
+
+- ✅ Total Orders, Average Order Value, and Return Rate
+- ✅ Sales vs Cost with Net Loss Calculation
+- ✅ Category-wise Quantity Sold (Clothing, Electronics, etc.)
+- ✅ Customer Feedback (Good, Average, Bad)
+- ✅ Brand Preferences by Age Group
+- ✅ Payment Method Usage
+- ✅ Revenue, Cost, and Profit by Brand
 
 ---
 
-## 📁 Project Files:
-- `Super Market Performance.pbix` – Editable Power BI file.
-- `Super market Performance.png` – Dashboard screenshot preview.
+## 🧰 Tools Used
+
+- Power BI Desktop (.pbix)
+- DAX for calculated KPIs
+- Data Visuals (Bar, Line, Scatter, Cards)
 
 ---
 
-## 💡 Purpose:
-To showcase beginner-level Power BI dashboarding and data storytelling skills as part of a growing financial analytics portfolio.
+## 📁 Files in this Repo
+
+- `Super Market Performance.pbix` – The Power BI project file
+- `Super market Performance.png` – Dashboard screenshot
 
 ---
 
-## 📌 Status:
-✅ Completed | 🧪 Beginner Portfolio Project | 💼 Open for Feedback
+## 📫 Let’s Connect!
+
+Created by **Shriya Srivastava**  
+📧 Reach out on [LinkedIn](www.linkedin.com/in/shriyaa-srivastav-a34b50201) for feedback or collaboration!
 
